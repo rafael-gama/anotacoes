@@ -6,6 +6,4 @@ console para jogos, quadros de imagens, e até mesmo máquinas de lavar sendo co
 Existem princípios de orientação e estrutura que forneçam um fundamento para a compreensão de um sistema
 surpreendentemente complexo e abrangente? Se a resposta for sim, é possível que, nos dias de hoje, seja interes-
 sante e divertido aprender sobre rede de computadores? Felizmente, as respostas para todas essas perguntas é um
-retumbante SIM! Na verdade, nosso objetivo neste livro é fornecer uma introdução moderna ao campo dinâmico
-das redes de computadores, apresentando os princípios e o entendimento prático necessários para utilizar não
-apenas as redes de hoje, como também as de amanhã.
+retumbante SIM!
